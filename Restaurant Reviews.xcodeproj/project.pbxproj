@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		1B69A2B12C7D44C900EC6CA3 /* Restaurant Reviews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Restaurant Reviews.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B69A2B42C7D44C900EC6CA3 /* Restaurant_ReviewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_ReviewsApp.swift; sourceTree = "<group>"; };
-		1B69A2B62C7D44C900EC6CA3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1B69A2B62C7D44C900EC6CA3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1B69A2B82C7D44CA00EC6CA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B69A2BB2C7D44CA00EC6CA3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1B69A2C12C7D44CB00EC6CA3 /* Restaurant ReviewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Restaurant ReviewsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };

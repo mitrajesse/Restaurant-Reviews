@@ -24,8 +24,12 @@ struct ContentView: View {
         .multilineTextAlignment(.center)
         .lineSpacing(5)
         .padding()
-        .rotation3DEffect(.degrees(20), axis: (x: 1, y: 0, z: 0)
+        .rotation3DEffect(.degrees(30), axis: (x: 1, y: 0, z: 0)
         )
         .shadow(color: .gray, radius: 6, x: 6, y: 6)
     }
+}
+
+#Preview {
+    ContentView()
 }
